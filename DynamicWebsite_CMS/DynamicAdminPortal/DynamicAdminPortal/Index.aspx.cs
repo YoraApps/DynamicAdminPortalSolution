@@ -13,5 +13,11 @@ namespace DynamicAdminPortal
         {
 
         }
+
+        protected void btnSubmit_Click(object sender, EventArgs e)
+        {
+            var text = Richtextbox.Text;
+            var heading = lblHeading.Text;
+        }
     }
 }

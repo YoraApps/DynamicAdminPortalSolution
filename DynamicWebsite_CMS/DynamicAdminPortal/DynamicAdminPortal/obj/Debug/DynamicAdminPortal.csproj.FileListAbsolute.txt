@@ -14,14 +14,6 @@ E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\roslyn\
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\DynamicAdminPortal.dll.config
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\DynamicAdminPortal.dll
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\DynamicAdminPortal.pdb
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.Agent.Intercept.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.DependencyCollector.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.PerfCounterCollector.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.ServerTelemetryChannel.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.Web.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.WindowsServer.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.ApplicationInsights.dll
-E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.DependencyCollector.xml
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microsoft.AI.Web.xml
@@ -31,3 +23,5 @@ E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\Microso
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\obj\Debug\DynamicAdminPortal.csprojResolveAssemblyReference.cache
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\obj\Debug\DynamicAdminPortal.dll
 E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\obj\Debug\DynamicAdminPortal.pdb
+E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\bin\FreeTextBox.dll
+E:\YORA Web\DynamicWebsite_CMS\DynamicAdminPortal\DynamicAdminPortal\obj\Debug\DynamicAdminPortal.dll.licenses
